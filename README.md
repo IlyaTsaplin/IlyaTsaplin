@@ -7,5 +7,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IlyaTsaplin&theme=great-gatsby&show_icons=true&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=IlyaTsaplin&icon=0&color=12)](https://visitcount.itsvg.in)
